@@ -1,0 +1,19 @@
+body{
+    font-family: 'Super Mario 256', sans-serif;
+                                                
+    text-align: center;
+}
+
+
+#board{
+    margin-top: 20px;
+    background: url(background.png);
+}
+
+span{
+    color: red;
+}
+
+.span2{
+    color: green;
+}
